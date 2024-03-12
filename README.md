@@ -11,3 +11,5 @@ Qian Zhang <sup>2</sup>,
 <br>
 <sup>1</sup> [School of EIC, HUST](http://english.eic.hust.edu.cn/),
 <sup>2</sup> [Horizon Robotics](https://en.horizonrobotics.com/)
+
+![vis](assets/pred_by_OSP.gif)
