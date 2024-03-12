@@ -1,6 +1,6 @@
 <div id="top" align="center">
 
-# Occuapncy as Set of Points
+# Occupancy as Set of Points
 
 
 [Yiang Shi](https://github.com/shawnsya) <sup>1,✢</sup>,
