@@ -24,3 +24,8 @@ In this paper, we explore a novel point representation for 3D occupancy predicti
 special areas or areas out of the perception range. In comparison, we present the Points of Interest(PoIs) to represent the scene and propose OSP, a novel framework for point-based 3D occupancy prediction. Owing to the inherent flexibility of the point-based representation, OSP achieves state-of-the-art 
 performance compared with existing methods and excels in terms of training and inference adaptability. It extends beyond traditional perception boundaries and can be seamlessly integrated with volume-based methods to significantly enhance their effectiveness. Experiments on the Occ3D-nuScenes occupancy 
 benchmark show that OSP has strong performance and flexibility. 
+
+
+<div align="center">
+<img src="assets/architecture.png" />
+</div>
