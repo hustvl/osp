@@ -16,7 +16,6 @@
 
 ### News
 
-* **` Apr. 2nd, 2024`:** We released our paper on Arxiv.
 
 
 ## Abstract
