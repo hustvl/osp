@@ -1,21 +1,23 @@
 <div align="center">
 <h1>Occupancy as Set of Points </h1>
 
-[Yiang Shi](https://github.com/shawnsya)<sup>1</sup> \*, [Tianheng Cheng](https://scholar.google.com/citations?user=PH8rJHYAAAAJ) <sup>2,1</sup> \*, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>3</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
+[Yiang Shi](https://github.com/shawnsya)<sup>1,\*</sup>, [Tianheng Cheng](https://scholar.google.com/citations?user=PH8rJHYAAAAJ)<sup>1,\*</sup>, [Qian Zhang](https://scholar.google.com/citations?user=pCY-bikAAAAJ&hl=zh-CN)<sup>2</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
  
 <sup>1</sup>  [School of EIC, HUST](http://english.eic.hust.edu.cn/),
 <sup>2</sup>  [Horizon Robotics](https://en.horizonrobotics.com/)
 
 
-(\*) equal contribution, (<sup>:email:</sup>) corresponding author.
- 
+\* equal contribution, <sup>:email:</sup> corresponding author.
+
+**ECCV 2024**
+
 </div>
 
 
 #
 
 ### News
-
+* `[2024-7-2]` OSP is accepted by ECCV 2024!
 
 
 ## Abstract
@@ -28,3 +30,8 @@ benchmark show that OSP has strong performance and flexibility.
 <div align="center">
 <img src="assets/architecture.png" />
 </div>
+
+## Citations
+```bibtex
+```
+
