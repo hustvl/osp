@@ -27,7 +27,42 @@ In this paper, we explore a novel point representation for 3D occupancy predicti
 <img src="assets/architecture.png" />
 </div>
 
+## Preliminary
+
+### Installation
+1. Prepare conda environment referring to the documentation of [BEVFormer](https://github.com/fundamentalvision/BEVFormer/blob/master/docs/install.md)
+
+### Prepare Dataset
+1. Download nuScenes and prepare annotations referring to the documentation of [3D Occupancy Prediction Challenge at CVPR 2023](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)
+
+### Prepare Dataset
+The pretrained weight of fcos3d can be download [here](https://github.com/zhiqi-li/storage/releases/download/v1.0/r101_dcn_fcos3d_pretrain.pth)
+
+
+## Usage 
+1. **Training**
+    ```shell
+    bash train.sh
+    ```
+    * Replace the default config file as needed.
+    * Config osp_minibatch.py represents mini dataset of nuScenes. 
+
+
+2. **Evaluation**
+    ```shell
+    bash test.sh
+    ```
+    * Replace the default config file as needed.
+    * Replace the checkpoint path in the script with your own.
+
+## Results
+| Backbone | Method | Lr Schd | IoU|  Config | Download |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| R101 | OSP | 24ep | 39.41 |[config](projects/configs/osp/osp.py) |[model]()|
+| R101 | BEVFormer w/ OSP$^\dag$ | 24ep | 41.21 |[config](projects/configs/osp/osp.py) |[model]()|
+
+* Model weights will be released later.
+
 ## Citations
 ```bibtex
 ```
-
