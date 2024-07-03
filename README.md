@@ -35,7 +35,7 @@ In this paper, we explore a novel point representation for 3D occupancy predicti
 ### Prepare Dataset
 1. Download nuScenes and prepare annotations referring to the documentation of [3D Occupancy Prediction Challenge at CVPR 2023](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)
 
-### Prepare Dataset
+### Pretrained Weights 
 The pretrained weight of fcos3d can be download [here](https://github.com/zhiqi-li/storage/releases/download/v1.0/r101_dcn_fcos3d_pretrain.pth)
 
 
@@ -66,3 +66,7 @@ The pretrained weight of fcos3d can be download [here](https://github.com/zhiqi-
 ## Citations
 ```bibtex
 ```
+
+## License
+
+Released under the [MIT](LICENSE) License.
