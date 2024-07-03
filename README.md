@@ -59,7 +59,7 @@ The pretrained weight of fcos3d can be download [here](https://github.com/zhiqi-
 | Backbone | Method | Lr Schd | IoU|  Config | Download |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | R101 | OSP | 24ep | 39.41 |[config](projects/configs/osp/osp.py) |[model]()|
-| R101 | BEVFormer w/ OSP$^\dag$ | 24ep | 41.21 |[config](projects/configs/osp/osp.py) |[model]()|
+| R101 | BEVFormer w/ OSP | 24ep | 41.21 |[config](projects/configs/osp/osp.py) |[model]()|
 
 * Model weights will be released later.
 
