@@ -66,16 +66,14 @@ The pretrained weight of fcos3d can be downloaded [here](https://github.com/zhiq
 
 ## Citations
 ```bibtex
-@article{shi2024occupancysetpoints,
+@inproceedings{shi2024occupancysetpoints,
       title={Occupancy as Set of Points}, 
       author={Yiang Shi and Tianheng Cheng and Qian Zhang and Wenyu Liu and Xinggang Wang},
       year={2024},
-      eprint={2407.04049},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.04049}, 
+      booktitle={ECCV}
 }
 ```
+
 
 ## License
 
