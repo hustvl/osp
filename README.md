@@ -36,7 +36,7 @@ In this paper, we explore a novel point representation for 3D occupancy predicti
 1. Download nuScenes and prepare annotations referring to the documentation of [3D Occupancy Prediction Challenge at CVPR 2023](https://github.com/CVPR2023-3D-Occupancy-Prediction/CVPR2023-3D-Occupancy-Prediction)
 
 ### Pretrained Weights 
-The pretrained weight of fcos3d can be download [here](https://github.com/zhiqi-li/storage/releases/download/v1.0/r101_dcn_fcos3d_pretrain.pth)
+The pretrained weight of fcos3d can be downloaded [here](https://github.com/zhiqi-li/storage/releases/download/v1.0/r101_dcn_fcos3d_pretrain.pth)
 
 
 ## Usage 
@@ -65,6 +65,15 @@ The pretrained weight of fcos3d can be download [here](https://github.com/zhiqi-
 
 ## Citations
 ```bibtex
+@article{shi2024occupancysetpoints,
+      title={Occupancy as Set of Points}, 
+      author={Yiang Shi and Tianheng Cheng and Qian Zhang and Wenyu Liu and Xinggang Wang},
+      year={2024},
+      eprint={2407.04049},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.04049}, 
+}
 ```
 
 ## License
