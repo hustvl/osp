@@ -9,6 +9,9 @@
 
 \* equal contribution, <sup>:email:</sup> corresponding author.
 
+[![arxiv paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/2407.04049)
+
+
 **ECCV 2024**
 
 </div>
