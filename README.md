@@ -17,6 +17,7 @@
 #
 
 ### News
+* `[2024-7-8]` We have released the [arXiv paper](https://arxiv.org/abs/2407.04049) of OSP.
 * `[2024-7-2]` OSP is accepted by ECCV 2024!
 
 
